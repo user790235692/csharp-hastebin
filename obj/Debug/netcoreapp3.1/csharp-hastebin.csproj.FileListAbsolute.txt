@@ -1,0 +1,14 @@
+/Users/lucas/Desktop/csharp-hastebin/bin/Debug/netcoreapp3.1/csharp-hastebin.deps.json
+/Users/lucas/Desktop/csharp-hastebin/bin/Debug/netcoreapp3.1/csharp-hastebin.runtimeconfig.json
+/Users/lucas/Desktop/csharp-hastebin/bin/Debug/netcoreapp3.1/csharp-hastebin.runtimeconfig.dev.json
+/Users/lucas/Desktop/csharp-hastebin/bin/Debug/netcoreapp3.1/csharp-hastebin.dll
+/Users/lucas/Desktop/csharp-hastebin/bin/Debug/netcoreapp3.1/csharp-hastebin.pdb
+/Users/lucas/Desktop/csharp-hastebin/bin/Debug/netcoreapp3.1/Newtonsoft.Json.dll
+/Users/lucas/Desktop/csharp-hastebin/obj/Debug/netcoreapp3.1/csharp-hastebin.csprojAssemblyReference.cache
+/Users/lucas/Desktop/csharp-hastebin/obj/Debug/netcoreapp3.1/csharp-hastebin.AssemblyInfoInputs.cache
+/Users/lucas/Desktop/csharp-hastebin/obj/Debug/netcoreapp3.1/csharp-hastebin.AssemblyInfo.cs
+/Users/lucas/Desktop/csharp-hastebin/obj/Debug/netcoreapp3.1/csharp-hastebin.csproj.CoreCompileInputs.cache
+/Users/lucas/Desktop/csharp-hastebin/obj/Debug/netcoreapp3.1/csharp-hastebin.csproj.CopyComplete
+/Users/lucas/Desktop/csharp-hastebin/obj/Debug/netcoreapp3.1/csharp-hastebin.dll
+/Users/lucas/Desktop/csharp-hastebin/obj/Debug/netcoreapp3.1/csharp-hastebin.pdb
+/Users/lucas/Desktop/csharp-hastebin/obj/Debug/netcoreapp3.1/csharp-hastebin.genruntimeconfig.cache

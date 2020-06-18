@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "DyTWoOYShRPfYX2V0IA50mTfUgbSJKLXHNU0PqkjVn7cnzfH44Ibc0LwE0w/CTLIopxJtAverGKneTCU8t0d0Q==",
+  "success": true,
+  "projectFilePath": "/Users/lucas/Desktop/csharp-hastebin/csharp-hastebin.csproj",
+  "expectedPackageFiles": [
+    "/Users/lucas/.nuget/packages/newtonsoft.json/12.0.3/newtonsoft.json.12.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
